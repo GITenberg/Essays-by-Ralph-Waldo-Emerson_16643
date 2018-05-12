@@ -1,0 +1,41 @@
+_repo: Essays-by-Ralph-Waldo-Emerson_16643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+  editor:
+    agent_name: Turpin, Edna Henry Lee
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '6842'
+    url: http://www.gutenberg.org/2009/agents/6842
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2005-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: Introduction -- The American scholar -- Compensation -- Self-reliance
+  -- Friendship -- Heroism -- Manners -- Gifts -- Nature -- Shakespeare; or, The poet
+  -- Prudence -- Circles -- Notes.
+title: Essays by Ralph Waldo Emerson
+url: http://www.gutenberg.org/ebooks/16643
