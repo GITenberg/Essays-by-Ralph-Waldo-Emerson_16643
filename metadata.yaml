@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6842'
     url: http://www.gutenberg.org/2009/agents/6842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16643#Essays-by-Ralph-Waldo-Emerson
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
