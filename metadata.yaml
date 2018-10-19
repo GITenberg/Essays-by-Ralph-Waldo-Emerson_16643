@@ -36,6 +36,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Essays'
+- GITenberg
 tableOfContents: Introduction -- The American scholar -- Compensation -- Self-reliance
   -- Friendship -- Heroism -- Manners -- Gifts -- Nature -- Shakespeare; or, The poet
   -- Prudence -- Circles -- Notes.
